@@ -44,7 +44,7 @@ word cloud is also shown.
 8. Cool Enjoy.
 
 ```
-<p>Work Flow:</p>
+Work Flow:
 ```
 
 1. File training_model.py trains the classifier on classified movie reviews training data, to be
